@@ -15,8 +15,6 @@
   <a href="https://github.com/2100031988/Autism-Spectrum-Disorder-Detection-and-Analysis">View Repo</a>
 </p>
 
-
-
 ---
 
 ## 🌟 Project Overview
@@ -88,7 +86,6 @@ Run the `train_model.py` script to load the data, preprocess it, train the model
 python scripts/train_model.py
 ```
 
-
 ---
 
 ## 📊 Visualizations
@@ -101,10 +98,19 @@ python scripts/train_model.py
 
 ## 📝 License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/<your-username>/<your-repo>/blob/main/LICENSE) file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/2100031988/Autism-Spectrum-Disorder-Detection-and-Analysis/blob/main/LICENSE) file for more details.
 
 ---
 
-<p align="center">
-  <img src="https://github.com/<your-username>/<your-repo>/blob/main/path-to-image/check.png" alt="ASD Detection" width="100">
-</p>
+## 👥 Contributors
+
+Thanks to these people who have contributed to this project:
+- [Sabyasachi Kumar](https://github.com/2100031988)
+
+For more contributors, check out the [CONTRIBUTORS.md](https://github.com/2100031988/Autism-Spectrum-Disorder-Detection-and-Analysis/blob/main/CONTRIBUTORS.md) file.
+
+---
+
+## © Copyright
+
+© 2024 Sabyasachi Kumar. All rights reserved.
