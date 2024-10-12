@@ -62,7 +62,7 @@ ASD_Detection_Project/
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/<your-repo>
+git clone https://github.com/2100031988/Autism-Spectrum-Disorder-Detection-and-Analysis.git
 cd ASD_Detection_Project
 ```
 
