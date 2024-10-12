@@ -25,7 +25,7 @@ We are always looking for enthusiastic contributors! Whether you want to contrib
 If you’d like to collaborate on a bigger feature or propose an idea for the project, feel free to get in touch with me directly.
 
 ### Contact Information:
-- **Email**: [sabyasachikumar2@gmail.com]
+- **Email**: sabyasachikumar2@gmail.com
 - **GitHub**: [@2100031988](https://github.com/2100031988)
 - **LinkedIn**: [Sabyasachi Kumar](https://www.linkedin.com/in/sabyasachi-kumar-5a423b226/)
 
