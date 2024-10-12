@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/your-username/your-repo/issues">Report Bug</a> |
-  <a href="https://github.com/your-username/your-repo/pulls">Request Feature</a> |
-  <a href="https://github.com/your-username/your-repo">View Repo</a>
+  <a href="https://github.com/2100031988/Autism-Spectrum-Disorder-Detection-and-Analysis/issues">Report Bug</a> |
+  <a href="https://github.com/2100031988/Autism-Spectrum-Disorder-Detection-and-Analysis/pulls">Request Feature</a> |
+  <a href="https://github.com/2100031988/Autism-Spectrum-Disorder-Detection-and-Analysis">View Repo</a>
 </p>
 
 ---
