@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="Autism Spectrum Disorder (ASD) .png" alt="Project Logo" width="500">
-</p>
-
 <h1 align="center"> Autism Spectrum Disorder (ASD) Detection and Analysis </h1>
 
 <p align="center">
@@ -11,10 +7,6 @@
     <img src="https://img.shields.io/github/issues/2100031988/Autism-Spectrum-Disorder-Detection-and-Analysis" alt="Issues">
     <img src="https://img.shields.io/github/license/2100031988/Autism-Spectrum-Disorder-Detection-and-Analysis" alt="License">
     <img src="https://img.shields.io/badge/Python-3.8+-blue?logo=python" alt="Python">
-    <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-red?logo=pandas" alt="Pandas">
-    <img src="https://img.shields.io/badge/Scikit--learn-ML-yellow?logo=scikit-learn" alt="Scikit-learn">
-    <img src="https://img.shields.io/badge/Matplotlib-Data%20Visualization-green?logo=matplotlib" alt="Matplotlib">
-    <img src="https://img.shields.io/badge/Seaborn-Data%20Visualization-lightgreen?logo=seaborn" alt="Seaborn">
 </p>
 
 <p align="center">
@@ -22,6 +14,8 @@
   <a href="https://github.com/2100031988/Autism-Spectrum-Disorder-Detection-and-Analysis/pulls">Request Feature</a> |
   <a href="https://github.com/2100031988/Autism-Spectrum-Disorder-Detection-and-Analysis">View Repo</a>
 </p>
+
+
 
 ---
 
@@ -37,23 +31,23 @@ This project uses Python and machine learning techniques for the detection and a
 ASD_Detection_Project/
 │
 ├── data/
-│   └── autism_data.csv           # Dataset
+│   └── autism_data.csv           
 │
 ├── notebooks/
-│   └── eda.ipynb                 # Jupyter notebook for exploratory data analysis
+│   └── eda.ipynb                 
 │
 ├── src/
-│   ├── __init__.py               # To treat src as a Python module
-│   ├── preprocess.py             # Data preprocessing
-│   ├── model.py                  # Model Training and Evaluation
-│   └── visualize.py              # Data Visualization
+│   ├── __init__.py               
+│   ├── preprocess.py            
+│   ├── model.py                  
+│   └── visualize.py              
 │
 ├── scripts/
-│   └── train_model.py            # Main script to run training and evaluation
+│   └── train_model.py           
 │
-├── requirements.txt              # List of dependencies
+├── requirements.txt              
 ├── README.md                     
-└── .gitignore                    # To ignore unnecessary files
+└── .gitignore                    
 ```
 
 ---
