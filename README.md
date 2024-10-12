@@ -106,6 +106,7 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 
 Thanks to these people who have contributed to this project:
 - [Sabyasachi Kumar](https://github.com/2100031988)
+- [Diksha Chauhan](https://github.com/DikshaChauhan18)
 
 For more contributors, check out the [CONTRIBUTORS.md](https://github.com/2100031988/Autism-Spectrum-Disorder-Detection-and-Analysis/blob/main/CONTRIBUTORS.md) file.
 
