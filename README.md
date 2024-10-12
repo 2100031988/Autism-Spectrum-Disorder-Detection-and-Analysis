@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Autism-spectrum-disorder-ASD.png" alt="Project Logo" width="400">
+  <img src="Autism-spectrum-disorder-ASD.png" alt="Project Logo" width="700">
 </p>
 
 <h1 align="center"> Autism Spectrum Disorder (ASD) Detection and Analysis </h1>
