@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/<your-username>/<your-repo>/blob/main/path-to-image/check.png" alt="Project Logo" width="200">
+  <img src="Autism-spectrum-disorder-ASD.png" alt="Project Logo" width="400">
 </p>
 
 <h1 align="center"> Autism Spectrum Disorder (ASD) Detection and Analysis </h1>
