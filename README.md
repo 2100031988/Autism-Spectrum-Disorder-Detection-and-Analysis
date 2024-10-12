@@ -10,6 +10,11 @@
     <img src="https://img.shields.io/github/stars/2100031988/Autism-Spectrum-Disorder-Detection-and-Analysis" alt="Stars">
     <img src="https://img.shields.io/github/issues/2100031988/Autism-Spectrum-Disorder-Detection-and-Analysis" alt="Issues">
     <img src="https://img.shields.io/github/license/2100031988/Autism-Spectrum-Disorder-Detection-and-Analysis" alt="License">
+    <img src="https://img.shields.io/badge/Python-3.8+-blue?logo=python" alt="Python">
+    <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-red?logo=pandas" alt="Pandas">
+    <img src="https://img.shields.io/badge/Scikit--learn-ML-yellow?logo=scikit-learn" alt="Scikit-learn">
+    <img src="https://img.shields.io/badge/Matplotlib-Data%20Visualization-green?logo=matplotlib" alt="Matplotlib">
+    <img src="https://img.shields.io/badge/Seaborn-Data%20Visualization-lightgreen?logo=seaborn" alt="Seaborn">
 </p>
 
 <p align="center">
@@ -89,13 +94,6 @@ Run the `train_model.py` script to load the data, preprocess it, train the model
 python scripts/train_model.py
 ```
 
----
-
-## 🛠️ Technologies Used
-- **Python**: For data processing and machine learning.
-- **Pandas**: For data manipulation and analysis.
-- **Scikit-learn**: For building machine learning models.
-- **Matplotlib** & **Seaborn**: For data visualization.
 
 ---
 
